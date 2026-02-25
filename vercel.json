@@ -1,5 +1,4 @@
 {
-  "buildCommand": "npm run build --prefix Frontend/Vc-Scout",
-  "outputDirectory": "Frontend/Vc-Scout/dist",
-  "installCommand": "npm install --prefix Frontend/Vc-Scout"
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
 }
