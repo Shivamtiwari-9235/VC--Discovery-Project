@@ -1,6 +1,6 @@
 {
-  "buildCommand": "cd Frontend/Vc-Scout && npm run build",
-  "outputDirectory": "Frontend/Vc-Scout/dist",
+  "buildCommand": "cd ./Frontend/Vc-Scout && npm run build",
+  "outputDirectory": "./Frontend/Vc-Scout/dist",
   "framework": "vite",
-  "installCommand": "cd Frontend/Vc-Scout && npm install"
+  "installCommand": "cd ./Frontend/Vc-Scout && npm install"
 }
